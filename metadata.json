@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cartão de Crédito Interativo",
+  "description": "Um validador de cartão de crédito interativo que identifica a bandeira, muda de cor e vira para mostrar o verso conforme você preenche os dados. Criado com React, TypeScript e Tailwind CSS.",
+  "requestFramePermissions": []
+}
